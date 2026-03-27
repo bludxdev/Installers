@@ -1,1 +1,2 @@
 browser/chromium
+extra/obs-studio
