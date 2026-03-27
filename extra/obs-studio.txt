@@ -1,0 +1,5 @@
+data prog-f/obs-studio
+download https://api.github.com/repos/obsproject/obs-studio/releases/latest obs-studio.zip
+unzip d obs-studio.zip
+install
+shortcut obs-studio
