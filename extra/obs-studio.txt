@@ -1,5 +1,5 @@
 data prog-f/obs-studio
-download https://api.github.com/repos/obsproject/obs-studio/releases/latest obs-studio.zip
-unzip d obs-studio.zip
+download https://github.com/obsproject/obs-studio/releases/latest/download/OBS-Studio-32.1.0-Windows-x64.zip obs-studio.zip
+unzip d
 install
-shortcut obs-studio
+shortcut bin/64bit/obs64.exe
