@@ -1,0 +1,6 @@
+repo Installers
+data prog-f/Chromium
+download https://download-chromium.appspot.com/dl/Win_x64?type=snapshots chromium.zip
+unzip d chromium.zip
+install
+shortcut chrome.exe
