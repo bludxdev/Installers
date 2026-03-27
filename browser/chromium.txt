@@ -1,4 +1,3 @@
-repo browser/chromium.txt
 data prog-f/Chromium
 download https://download-chromium.appspot.com/dl/Win_x64?type=snapshots chromium.zip
 unzip d chromium.zip
